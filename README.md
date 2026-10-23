@@ -1,5 +1,7 @@
 # To-Do List Application
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 Cette application est une solution complète pour gérer une liste de tâches. Elle offre des options avancées de filtrage, modification et suppression de tâches, ainsi qu'un mode sombre pour une expérience utilisateur optimale. Les tâches sont persistées dans le navigateur via localStorage, garantissant leur sauvegarde même après un rafraîchissement de la page.
 
 ## Fonctionnalités
@@ -57,3 +59,7 @@ Cette application est une solution complète pour gérer une liste de tâches. E
 - **HTML** : Structure et contenu de la page.
 - **CSS** : Mise en forme, animations et responsive design.
 - **JavaScript** : Logique d'interaction, gestion du localStorage, et fonctionnalités dynamiques.
+
+---
+
+Réalisé par **Ethan Lalienne** · [GitHub](https://github.com/ethn924) · [Portfolio](https://ethn924.github.io/Portfolio/)
